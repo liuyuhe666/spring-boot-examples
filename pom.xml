@@ -11,6 +11,7 @@
   <modules>
     <module>00-hello</module>
     <module>01-cache-redis</module>
+    <module>02-mq-kafka</module>
   </modules>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
