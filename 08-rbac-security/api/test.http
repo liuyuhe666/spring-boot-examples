@@ -1,0 +1,10 @@
+# 测试列表查询
+GET http://localhost:8008/test
+
+###
+# 测试列表添加
+POST http://localhost:8008/test
+
+###
+# 测试列表修改
+PUT http://localhost:8008/test/1

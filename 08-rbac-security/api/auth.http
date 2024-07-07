@@ -1,0 +1,13 @@
+# 登录
+POST http://localhost:8008/api/auth/login
+Content-Type: application/json
+
+{
+  "usernameOrEmailOrPhone": "admin",
+  "password": "123456"
+}
+
+###
+# 登出
+POST http://localhost:8008/api/auth/logout
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDcyODA2Mzc3NjYxMDA5OTIwIiwic3ViIjoiYWRtaW4iLCJpYXQiOjE3MjAzNDAzNzEsInJvbGVzIjpbIueuoeeQhuWRmCJdLCJhdXRob3JpdGllcyI6W3siYXV0aG9yaXR5IjoicGFnZTp0ZXN0In0seyJhdXRob3JpdHkiOiJidG46dGVzdDpxdWVyeSJ9LHsiYXV0aG9yaXR5IjoiYnRuOnRlc3Q6aW5zZXJ0In0seyJhdXRob3JpdHkiOiJwYWdlOm1vbml0b3I6b25saW5lIn0seyJhdXRob3JpdHkiOiJidG46bW9uaXRvcjpvbmxpbmU6cXVlcnkifSx7ImF1dGhvcml0eSI6ImJ0bjptb25pdG9yOm9ubGluZTpraWNrb3V0In1dLCJleHAiOjE3MjAzNDA5NzF9.KfnV3_456BQnnzFwHyoU5kak8ZpzB0FooE3sqGcuS7A

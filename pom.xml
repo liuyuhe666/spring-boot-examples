@@ -17,6 +17,7 @@
     <module>05-ratelimit-redis</module>
     <module>06-log-aop</module>
     <module>07-websocket</module>
+    <module>08-rbac-security</module>
   </modules>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
