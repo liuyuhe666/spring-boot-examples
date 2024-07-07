@@ -16,6 +16,7 @@
     <module>04-ratelimit-guava</module>
     <module>05-ratelimit-redis</module>
     <module>06-log-aop</module>
+    <module>07-websocket</module>
   </modules>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
