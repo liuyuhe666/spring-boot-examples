@@ -1,0 +1,8 @@
+server:
+  port: 9090
+
+spring:
+  dubbo:
+    application:
+      name: spring-boot-examples-dubbo-provider
+      registry: zookeeper://172.29.58.214:2181

@@ -18,6 +18,10 @@
     <module>06-log-aop</module>
     <module>07-websocket</module>
     <module>08-rbac-security</module>
+    <module>09-dubbo</module>
+    <module>09-dubbo/dubbo-common</module>
+    <module>09-dubbo/dubbo-provider</module>
+    <module>09-dubbo/dubbo-consumer</module>
   </modules>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
