@@ -1,0 +1,8 @@
+application:
+  name: prod环境 @artifactId@
+  version: prod环境 @version@
+developer:
+  name: prod环境 lyh
+  website: prod环境 https://hellolyh.xlog.app
+  qq: ${prod.developer.qq} # 从环境变量中读取
+  phone-number: ${prod.developer.phone-number} # 从环境变量中读取

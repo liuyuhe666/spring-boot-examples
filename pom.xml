@@ -22,6 +22,7 @@
     <module>09-dubbo/dubbo-common</module>
     <module>09-dubbo/dubbo-provider</module>
     <module>09-dubbo/dubbo-consumer</module>
+      <module>10-properties</module>
   </modules>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
