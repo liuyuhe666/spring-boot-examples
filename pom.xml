@@ -22,7 +22,10 @@
     <module>09-dubbo/dubbo-common</module>
     <module>09-dubbo/dubbo-provider</module>
     <module>09-dubbo/dubbo-consumer</module>
-      <module>10-properties</module>
+    <module>10-properties</module>
+    <module>11-orm-mybatis</module>
+    <module>12-orm-jpa</module>
+      <module>13-orm-mybatis-plus</module>
   </modules>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
